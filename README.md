@@ -1,5 +1,5 @@
 # CS360CourseProject
-Info/code about/for my course project in Bradley University's CS 360 Fundamentals of Data Science course.
+Info/code about/for my course project in Bradley University's CS 360 Fundamentals of Data Science course. [BU CS Department Course Catalog](https://catalog.bradley.edu/undergraduate/course-descriptions/cs/)
 ## Project Overview from Course Material
 This semester-long project is your opportunity to apply everything you’ve learned in a way that produces something portfolio; something you’d be proud to show to an employer or grad school. You’ll choose your own dataset, apply an appropriate combination of data cleaning, exploration, modeling, and interpretation techniques, and present your results during our final-exam slot.
 ## Prospective Datasets
@@ -9,3 +9,6 @@ I am currently eyeing two datasets from [Kaggle](https://www.kaggle.com/datasets
 
 Both of these datasets are currently included in this repo as `titanic.csv` and `rotten_tomatoes_movie_reviews.csv`. They are publicly available by creating a free Kaggle account and downloading the datasets as a `.zip`.
 Once the final choice is made on which dataset to use, even if it ends up being something other than these two, this README will be updated and the unused dataset files will be removed from the repository.
+## Collaborators
+- [aourbanek](https://github.com/aourbanek/) - Repository owner, Project Lead
+- [DaveBrennanBradley](https://github.com/DaveBrennanBradley) - BU Course Instructor
